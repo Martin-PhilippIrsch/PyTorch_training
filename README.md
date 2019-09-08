@@ -9,7 +9,6 @@
 | VGG19          |  Neural Style Transfer              |  Various     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Martin-PhilippIrsch/PyTorch_training/blob/master/Neural_Style_Transfer_v1.ipynb)      |
 |           |                |          |       |
 |           |                |          |       |
-|           |                |          |       |
-|           |                |          |       |
+
 
 
